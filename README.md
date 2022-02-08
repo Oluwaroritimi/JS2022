@@ -1,2 +1,2 @@
 # JS2022
-Codes on my journey to learn Javaacript in 2022
+Codes on my journey to learn Javacript in 2022
