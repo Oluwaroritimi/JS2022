@@ -10,8 +10,8 @@ A simple analog clock created with Vanilla JavaScript. It's a hands-on project t
 **Usage:**
 Open the `analog_clock.html` file in your browser to see the analog clock in action.
 
-![Analog Clock](![193796566-8e73e0ef-5b1e-4537-8e61-90b011b54bd8](https://github.com/oluwarotimii/JS2022/assets/60570935/203c0960-0951-4bc8-bc6b-de12fb7b293a)
-)
+Analog Clock  [193796566-8e73e0ef-5b1e-4537-8e61-90b011b54bd8] (https://github.com/oluwarotimii/JS2022/assets/60570935/203c0960-0951-4bc8-bc6b-de12fb7b293a)
+
 
 ### Tic Tac Toe Game
 A classic Tic Tac Toe game built using Vanilla JavaScript. This project is designed to reinforce your JavaScript skills, especially in handling user interactions and game logic.
