@@ -5,7 +5,7 @@ Codes on my journey to learn Javascript in 2022. Practising Vanilla Javascript w
 ## Projects Added
 
 ### The Analog Clock
-A simple analog clock created with Vanilla JavaScript. It's a hands-on project to help you understand how to manipulate the DOM and work with time-related functions in JavaScript.
+A simple analog clock created with Vanilla JavaScript. It's a hands-on project to helps  work with time-related functions in JavaScript.
 
 **Usage:**
 Open the `analog_clock.html` file in your browser to see the analog clock in action.
